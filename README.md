@@ -5,6 +5,10 @@ Flutter Developer 🧠
 </h3>
 
 <p align="center">
+  <img src="https://media.istockphoto.com/id/1308934140/vector/programmer-coder-working-on-laptop-coding-software-development-illustration.jpg?s=612x612&w=is&k=20&c=z3p7IVvCloy3MbrQ2GHDvrr2QuZfG0a1xLglHaZ6zAU=" alt="Coder" width="250" style="border-radius:10px;" />
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/ahmedekramy74?igsh=bDFkM3NqOW1iNWR0">
     <img src="https://img.shields.io/badge/@ahmedekramy74-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
