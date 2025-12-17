@@ -5,14 +5,14 @@ Flutter Developer 🧠
 </h3>
 
 <p align="center">
-  <a href="https://instagram.com/ahmed.aaddel">
-    <img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/ahmedekramy74?igsh=bDFkM3NqOW1iNWR0">
+    <img src="https://img.shields.io/badge/@ahmedekramy74-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177">
-    <img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ahmed-ekramy-888465248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/Ahmed%20Ekramy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://learrnsimply.com">
-    <img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.facebook.com/share/1KoiUudVZ3/">
+    <img src="https://img.shields.io/badge/Facebook-Ahmed%20Ekramy-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -63,11 +63,3 @@ class AhmedEkramy {
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
-
----
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
->
-> **خلّينا نسهّل التعلّم… سطر سطر** 💙
